@@ -1,0 +1,4 @@
+*.o
+*~
+cond
+socketpair
